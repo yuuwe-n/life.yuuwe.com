@@ -1,0 +1,9 @@
+baseURL = 'https://life.yuuwe.com/'
+languageCode = 'en-us'
+title = "duy's life entries"
+
+
+theme = "neopost"
+
+[params]
+theme = "light-purple"

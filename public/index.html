@@ -22,10 +22,10 @@
 
 
 :root {
-    --site-bg: url("");
+    --site-bg: url("/pink_flowertile.png");
     --accent-color: #E96FA8;
     --select-color: #FFD6E8;
-    --link-color: #6B8EC6;
+    --link-color: #C45A8B;
     --bg-color: #FFEAF3;
     --text-color: #191919;
     --bg-color2: white;
@@ -36,7 +36,7 @@
     --outline-color: #F2A9C8;
     --outline-color2: #FFEAF3;
     --list-style-type: "";
-    --list-style-image: url("/flower.png");
+    --list-style-image: url("/pink_flower.png");
 }
 
 * {
@@ -590,16 +590,36 @@ pre {
         </div>
 
         
+        <div>
+            <div class="tags">
+                <p class="tags">Tags</p>
+            </div>
+
+            <ul class="tags">
+            
+            
+            
+            <li><a href="http://localhost:1313/tags/baking/">Baking</a></li><li><a href="http://localhost:1313/tags/flowers/">Flowers</a></li>
+            </ul>
+            
+            <div class="tags">
+                <a href="/tags"><b>more tags...</b></a>
+            </div>
+        </div>
+        
+        
         
         <nav class="links">
             <ul>
             
+
             
-                <li><a href="/tags">tags</a></li>
-            
-                <li><a href="https://www.youtube.com/@life_yuuwe">youtube</a></li>
-            
-                <li><a href="https://yuuwe.com">yuuwe.com</a></li>
+              <li>
+                <a href="https://www.youtube.com/@life_yuuwe"
+                   target="_blank" rel="noopener noreferrer">
+                  youtube
+                </a>
+              </li>
             
             
             </ul>
@@ -671,184 +691,33 @@ pre {
             
         </article>
     
-        <article id="post-1">
-            <button id="post-toc-btn-1" class="dropbox-btn" onclick="toggleDropbox('post-toc-1')" >☰</button>
-            <div id="post-toc-1" class="dropbox-content table-of-contents float">
-                
-
-  <nav class="toc">
-  <ul>
-
-      <li>
-        <a href="/posts/start/#meow" class="toc-item toc-level-1">
-          
-          
-          
-          1.
-           meow
-        </a>
-      </li>
-
-      <li>
-        <a href="/posts/start/#rawr" class="toc-item toc-level-2">
-          
-          
-          
-          1.1.
-           rawr
-        </a>
-      </li>
-  </ul>
-  </nav>
-
-            </div>
-            
-            <h2><a href="/posts/start/">mysterious meow</a></h2>
-            
-            tags:
-            
-            <a href="/tags/meow">meow</a>
-            
-            <div class="post-header">
-                @mochi <span class="timestamp">02/04/2026</span>
-            </div>
-            <p><h2 id="meow">meow</h2>
-<p>meow&hellip; meow rawr, meow meow meow!</p></p>
-            
-            <div class="photosetx2">
-                
-                <a href="/IMG_8434.jpeg" target="_blank"><img src="/IMG_8434.jpeg"></a>
-                
-            </div>
-            
-            <div class="post-content readmore">
-                
-                
-                <div class="text-content"><h3 id="rawr"> …</h3></div>
-                <div class="full-content" style="display: none;"><h3 id="rawr">rawr</h3>
-<p>rawr meow, meow meow rawr, rawr meow meow. meow rawr meow meow, rawr rawr rawr meow rawr, rawr meow meow.
-meow rawr, meow rawr meow!</p>
-<p><img src="/flower_post/IMG_8391.jpeg" alt="flower"></p></div>
-                <summary class="read-more-btn" onclick="toggleReadMore('post-1')" style="display: inline;"></summary>
-                
-            </div>
-            
-        </article>
     
-        <article id="post-2">
-            <button id="post-toc-btn-2" class="dropbox-btn" onclick="toggleDropbox('post-toc-2')" >☰</button>
-            <div id="post-toc-2" class="dropbox-content table-of-contents float">
-                
-
-  <nav class="toc">
-  <ul>
-
-      <li>
-        <a href="/posts/ahhh/#meow" class="toc-item toc-level-1">
-          
-          
-          
-          1.
-           meow
-        </a>
+    <ul class="pagination pagination-default">
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="First" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;&laquo;</span></a>
       </li>
-
-      <li>
-        <a href="/posts/ahhh/#rawr" class="toc-item toc-level-2">
-          
-          
-          
-          1.1.
-           rawr
-        </a>
+      <li class="page-item disabled">
+        <a aria-disabled="true" aria-label="Previous" class="page-link" role="button" tabindex="-1"><span aria-hidden="true">&laquo;</span></a>
       </li>
-  </ul>
-  </nav>
-
-            </div>
-            
-            <h2><a href="/posts/ahhh/">HUHHHH</a></h2>
-            
-            tags:
-            
-            <a href="/tags/meow">meow</a>
-            
-            <div class="post-header">
-                @mochi <span class="timestamp">02/01/2026</span>
-            </div>
-            <p><h2 id="meow">meow</h2>
-<p>meow&hellip; meow rawr, meow meow meow!</p></p>
-            
-            <div class="photosetx2">
-                
-                <a href="/photo6.png" target="_blank"><img src="/photo6.png"></a>
-                
-            </div>
-            
-            <div class="post-content readmore">
-                
-                
-                <div class="text-content"><h3 id="rawr"> …</h3></div>
-                <div class="full-content" style="display: none;"><h3 id="rawr">rawr</h3>
-<p>rawr meow, meow meow rawr, rawr meow meow. meow rawr meow meow, rawr rawr rawr meow rawr, rawr meow meow.
-meow rawr, meow rawr meow!</p></div>
-                <summary class="read-more-btn" onclick="toggleReadMore('post-2')" style="display: inline;"></summary>
-                
-            </div>
-            
-        </article>
-    
-        <article id="post-3">
-            <button id="post-toc-btn-3" class="dropbox-btn" onclick="toggleDropbox('post-toc-3')" >☰</button>
-            <div id="post-toc-3" class="dropbox-content table-of-contents float">
-                
-
-
-            </div>
-            
-            <h2><a href="/posts/japanese_cheesecake/">japanese cheese cake</a></h2>
-            
-            tags:
-            
-            <a href="/tags/meow">meow</a>
-            
-            <div class="post-header">
-                @yuuwe <span class="timestamp">02/05/2025</span>
-            </div>
-            <p><h1 id="japanese-cheese-cake">japanese cheese cake</h1>
-<p>hellooo</p>
-<p>i made the famous instagram reel &ldquo;japanese&rdquo; cheese cake
-which is really just greek yogurt and biscotti.</p>
-<p>sooo i made it into tirimisu version with
-my decaf espresso!! and i drank with my
-little matcha latte yaaaaaaah</p></p>
-            
-            <div class="photosetx2">
-                
-                <a href="/IMG_8353.jpeg" target="_blank"><img src="/IMG_8353.jpeg"></a>
-                
-                <a href="/IMG_8320.jpeg" target="_blank"><img src="/IMG_8320.jpeg"></a>
-                
-            </div>
-            
-            <div class="post-content readmore">
-                
-                
-                <div class="full-content"></div>
-                
-            </div>
-            
-            <div class="photosetx3">
-                
-                <a href="/IMG_8338.jpeg" target="_blank"><img src="/IMG_8338.jpeg"></a>
-                
-                <a href="/IMG_8353.jpeg" target="_blank"><img src="/IMG_8353.jpeg"></a>
-                
-            </div>
-            
-        </article>
-    
-    
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 1" class="page-link" role="button">1</a>
+      </li>
+      <li class="page-item">
+        <a href="/page/2/" aria-label="Page 2" class="page-link" role="button">2</a>
+      </li>
+      <li class="page-item">
+        <a href="/page/3/" aria-label="Page 3" class="page-link" role="button">3</a>
+      </li>
+      <li class="page-item">
+        <a href="/page/4/" aria-label="Page 4" class="page-link" role="button">4</a>
+      </li>
+      <li class="page-item">
+        <a href="/page/2/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/page/4/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul>
     <script>
     window.addEventListener('click', e => {
         let dropboxs = document.getElementsByClassName("dropbox-content");
@@ -872,11 +741,11 @@ little matcha latte yaaaaaaah</p></p>
         if (fullContent.style.display === "none") {
             textContent.style.display = "none";
             fullContent.style.display = "inline";
-            btnText.innerHTML =  null ;
+            btnText.innerHTML = "read less";
         } else {
             textContent.style.display = "inline";
             fullContent.style.display = "none";
-            btnText.innerHTML =  null ;
+            btnText.innerHTML = "read more";
         }
     }
 

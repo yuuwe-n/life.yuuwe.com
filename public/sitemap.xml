@@ -3,28 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/youtube-duy-in-seoul-winter-2025/</loc>
-    <lastmod>2026-02-05T01:20:42+00:00</lastmod>
+    <lastmod>2026-02-05T02:30:32-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-05T01:20:42+00:00</lastmod>
+    <lastmod>2026-02-05T02:30:32-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/meow/</loc>
-    <lastmod>2026-02-05T01:20:42+00:00</lastmod>
+    <lastmod>2026-02-05T02:30:32-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-02-05T01:20:42+00:00</lastmod>
+    <lastmod>2026-02-05T02:30:32-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-02-05T01:20:42+00:00</lastmod>
+    <lastmod>2026-02-05T02:30:32-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/start/</loc>
-    <lastmod>2026-02-04T01:31:26+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/ahhh/</loc>
-    <lastmod>2026-02-01T01:29:19+00:00</lastmod>
+    <loc>http://localhost:1313/tags/baking/</loc>
+    <lastmod>2026-02-05T02:30:32-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/japanese_cheesecake/</loc>
-    <lastmod>2025-02-05T10:00:00-03:00</lastmod>
+    <lastmod>2026-02-05T02:30:32-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/flowers/</loc>
+    <lastmod>2026-01-25T01:31:26+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/flowers/</loc>
+    <lastmod>2026-01-25T01:31:26+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/archive_baking/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>

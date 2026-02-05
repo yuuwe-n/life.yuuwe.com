@@ -7,3 +7,19 @@
 /*  box-shadow: 6px 6px 0 var(--border-color);*/
   display: block;
 }
+
+
+.photoset {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+  object-fit: cover;
+}
+
+.photoset img {
+/*  max-height: 1rem;*/
+  max-width: 45%;
+  height: auto;
+  border-radius: 12px;
+}

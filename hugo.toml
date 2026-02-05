@@ -5,7 +5,31 @@ title = "duy's life entries"
 
 theme = "neopost"
 
+
+enableGitInfo = true
+
+[frontmatter]
+  lastmod = ["lastmod", ":git", "date", "publishDate"]
+
+
+[permalinks]
+posts = "/posts/:filename/"
+
 [params]
-#theme = "light-purple"
-#theme = "meow"
 theme = "blossom"
+
+customCSS = ["css/custom.css"]
+"posts-per-page" = 1
+"toc-auto-numbering" = false
+
+[params.sidebar.tags]
+enable = true
+limit = 2
+"more-text" = "more tags..."
+
+[params.read-more]
+"length-limit" = 120
+
+[params.read-more.text]
+more = "read more"
+less = "read less"

@@ -6,7 +6,7 @@
     <description>Recent content in Posts on duy&#39;s life entries</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Feb 2026 01:20:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 02:30:32 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Duy in Seoul, Winter 2025</title>
@@ -16,25 +16,25 @@
       <description>&lt;p&gt;Duy&amp;rsquo;s personal youtube video.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/cDTiR0RZUAY&#34;&gt;&lt;img src=&#34;http://localhost:1313/IMG_5148.jpeg&#34; alt=&#34;Duy in Seoul, Winter 2025&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>mysterious meow</title>
-      <link>http://localhost:1313/posts/start/</link>
-      <pubDate>Wed, 04 Feb 2026 01:31:26 +0000</pubDate>
-      <guid>http://localhost:1313/posts/start/</guid>
-      <description>&lt;h2 id=&#34;meow&#34;&gt;meow&lt;/h2&gt;&#xA;&lt;p&gt;meow&amp;hellip; meow rawr, meow meow meow!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HUHHHH</title>
-      <link>http://localhost:1313/posts/ahhh/</link>
-      <pubDate>Sun, 01 Feb 2026 01:29:19 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ahhh/</guid>
-      <description>&lt;h2 id=&#34;meow&#34;&gt;meow&lt;/h2&gt;&#xA;&lt;p&gt;meow&amp;hellip; meow rawr, meow meow meow!&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>japanese cheese cake</title>
       <link>http://localhost:1313/posts/japanese_cheesecake/</link>
-      <pubDate>Wed, 05 Feb 2025 10:00:00 -0300</pubDate>
+      <pubDate>Sun, 25 Jan 2026 10:00:00 -0300</pubDate>
       <guid>http://localhost:1313/posts/japanese_cheesecake/</guid>
       <description>&lt;h1 id=&#34;japanese-cheese-cake&#34;&gt;japanese cheese cake&lt;/h1&gt;&#xA;&lt;p&gt;hellooo&lt;/p&gt;&#xA;&lt;p&gt;i made the famous instagram reel &amp;ldquo;japanese&amp;rdquo; cheese cake&#xA;which is really just greek yogurt and biscotti.&lt;/p&gt;&#xA;&lt;p&gt;sooo i made it into tirimisu version with&#xA;my decaf espresso!! and i drank with my&#xA;little matcha latte yaaaaaaah&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>flowers!!</title>
+      <link>http://localhost:1313/posts/flowers/</link>
+      <pubDate>Sun, 25 Jan 2026 01:31:26 +0000</pubDate>
+      <guid>http://localhost:1313/posts/flowers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>duy&#39;s baking archive</title>
+      <link>http://localhost:1313/posts/archive_baking/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/archive_baking/</guid>
+      <description>&lt;h2 id=&#34;meow&#34;&gt;meow&lt;/h2&gt;&#xA;&lt;p&gt;meow&amp;hellip; meow rawr, meow meow meow!&lt;/p&gt;&#xA;&lt;div class=&#34;photoset&#34;&gt;&#xA;  &#xA;    &lt;img src=&#34;http://localhost:1313/IMG_0010.jpeg&#34; alt=&#34;&#34;&gt;&#xA;  &#xA;    &lt;img src=&#34;http://localhost:1313/IMG_0020.jpeg&#34; alt=&#34;&#34;&gt;&#xA;  &#xA;    &lt;img src=&#34;http://localhost:1313/IMG_0030.jpeg&#34; alt=&#34;&#34;&gt;&#xA;  &#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

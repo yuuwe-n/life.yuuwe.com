@@ -19,12 +19,13 @@
 
 
 - name: "blossom"
-  #site-bg: "/flowertile.png"
+  site-bg: "/pink_flowertile.png"
 
   accent-color: "#E96FA8"        # main blossom pink
   select-color: "#FFD6E8"        # soft highlight pink
-  link-color: "#6B8EC6"          # gentle sky blue (keeps contrast)
-
+#  link-color: "#6B8EC6"          # gentle sky blue (keeps contrast)
+  link-color: "#C45A8B"
+#  link-color: "#D16C9E"
   bg-color: "#FFEAF3"            # sakura background
   text-color: "#191919"
   bg2-color: "white"
@@ -39,4 +40,4 @@
   post-outline-color2: "#FFEAF3"
 
   list-style:
-    image: "/flower.png"
+    image: "/pink_flower.png"

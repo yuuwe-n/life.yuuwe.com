@@ -10,10 +10,10 @@
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Duy in Seoul, Winter 2025</title>
-      <link>http://localhost:1313/posts/youtube/</link>
+      <link>http://localhost:1313/posts/youtube-duy-in-seoul-winter-2025/</link>
       <pubDate>Thu, 05 Feb 2026 01:20:42 +0000</pubDate>
-      <guid>http://localhost:1313/posts/youtube/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ZgXa7AIqd6A&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/ZgXa7AIqd6A/maxresdefault.jpg&#34; alt=&#34;My Video Title&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/cDTiR0RZUAY&#34;&gt;yuuwe&amp;rsquo;s youtube video&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/youtube-duy-in-seoul-winter-2025/</guid>
+      <description>&lt;p&gt;Duy&amp;rsquo;s personal youtube video.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/cDTiR0RZUAY&#34;&gt;&lt;img src=&#34;http://localhost:1313/IMG_5148.jpeg&#34; alt=&#34;Duy in Seoul, Winter 2025&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>mysterious meow</title>
@@ -28,6 +28,13 @@
       <pubDate>Sun, 01 Feb 2026 01:29:19 +0000</pubDate>
       <guid>http://localhost:1313/posts/ahhh/</guid>
       <description>&lt;h2 id=&#34;meow&#34;&gt;meow&lt;/h2&gt;&#xA;&lt;p&gt;meow&amp;hellip; meow rawr, meow meow meow!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>japanese cheese cake</title>
+      <link>http://localhost:1313/posts/japanese_cheesecake/</link>
+      <pubDate>Wed, 05 Feb 2025 10:00:00 -0300</pubDate>
+      <guid>http://localhost:1313/posts/japanese_cheesecake/</guid>
+      <description>&lt;h1 id=&#34;japanese-cheese-cake&#34;&gt;japanese cheese cake&lt;/h1&gt;&#xA;&lt;p&gt;hellooo&lt;/p&gt;&#xA;&lt;p&gt;i made the famous instagram reel &amp;ldquo;japanese&amp;rdquo; cheese cake&#xA;which is really just greek yogurt and biscotti.&lt;/p&gt;&#xA;&lt;p&gt;sooo i made it into tirimisu version with&#xA;my decaf espresso!! and i drank with my&#xA;little matcha latte yaaaaaaah&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

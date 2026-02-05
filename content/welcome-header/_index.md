@@ -10,6 +10,5 @@ list:
   items: 
     - "baking"
     - "coffee"
-    - "matcha"
     - "cats"
 ---

@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:54203/</loc>
+    <loc>https://life.yuuwe.com/</loc>
     <lastmod>2025-02-01T10:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:54203/tags/meow/</loc>
+    <loc>https://life.yuuwe.com/tags/meow/</loc>
     <lastmod>2025-02-01T10:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:54203/posts/start/</loc>
+    <loc>https://life.yuuwe.com/posts/start/</loc>
     <lastmod>2025-02-01T10:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:54203/posts/</loc>
+    <loc>https://life.yuuwe.com/posts/</loc>
     <lastmod>2025-02-01T10:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:54203/tags/</loc>
+    <loc>https://life.yuuwe.com/tags/</loc>
     <lastmod>2025-02-01T10:00:00-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:54203/categories/</loc>
+    <loc>https://life.yuuwe.com/categories/</loc>
   </url>
 </urlset>

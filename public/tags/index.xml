@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on duy&#39;s life entries</title>
-    <link>http://localhost:54203/tags/</link>
+    <link>https://life.yuuwe.com/tags/</link>
     <description>Recent content in Tags on duy&#39;s life entries</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Feb 2025 10:00:00 -0300</lastBuildDate>
-    <atom:link href="http://localhost:54203/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://life.yuuwe.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meow</title>
-      <link>http://localhost:54203/tags/meow/</link>
+      <link>https://life.yuuwe.com/tags/meow/</link>
       <pubDate>Sat, 01 Feb 2025 10:00:00 -0300</pubDate>
-      <guid>http://localhost:54203/tags/meow/</guid>
+      <guid>https://life.yuuwe.com/tags/meow/</guid>
       <description></description>
     </item>
   </channel>

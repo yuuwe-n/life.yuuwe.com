@@ -1,6 +1,6 @@
 ---
 title: "mysterious meow"
-date: "2026-02-04T20:19:59-0800"
+date: "2026-02-04T20:19:59-08:00"
 tags: ["meow",]
 title-images: ["/IMG_8434.jpeg",]
 ending-images: []

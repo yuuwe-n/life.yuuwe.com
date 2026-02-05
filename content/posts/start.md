@@ -2,7 +2,7 @@
 title: "mysterious meow"
 date: "2025-02-01T10:00:00-03:00"
 tags: ["meow",]
-title-images: ["/photo6.png",]
+title-images: ["/IMG_8434.jpeg",]
 ending-images: []
 author: "mochi"
 draft: false

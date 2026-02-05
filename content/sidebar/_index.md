@@ -1,11 +1,11 @@
 ---
 headless: true
 icon-use-flower-shape: false
-icon-path: "/icon.png"
+icon-path: "/IMG_1450.jpeg"
 links:
-    - link: "https://nomnomnami.itch.io"
-      name: "itch.io"
+    - link: "https://yuuwe.com"
+      name: "yuuwe.com"
 
-    - link: "https://www.patreon.com/nomnomnami"
-      name: "patreon"
+    #- link: "/nomnomnami"
+    #  name: "patreon"
 ---

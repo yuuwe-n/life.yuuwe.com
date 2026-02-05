@@ -6,4 +6,6 @@ title = "duy's life entries"
 theme = "neopost"
 
 [params]
-theme = "light-purple"
+#theme = "light-purple"
+#theme = "meow"
+theme = "blossom"

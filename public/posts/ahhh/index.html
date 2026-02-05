@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <title>Meow | duy&#39;s life entries</title>
+    <title>HUHHHH | duy&#39;s life entries</title>
     <link rel="canonical" href="http://localhost:1313/">
     
     
     
-    <meta name="description" content="">
+    <meta name="description" content="meow
+meow&hellip; meow rawr, meow meow meow!">
     
+    
+    <meta name="keywords" content="meow">
     
     
     <style>
@@ -566,33 +569,116 @@ pre {
         <header><h1 id="duy&#39;s life entries"><a href="http://localhost:1313/">duy&#39;s life entries</a></h1></header>
 <main>
     
-<article style="padding-left: 2rem;">
-    <h2>Meow</h2>
-    <ul>
+<div id="single-post">
+    <aside class="table-of-contents sidebar">
+            
+
+  <nav class="toc">
+  <ul>
+
+      <li>
+        <a href="/posts/ahhh/#meow" class="toc-item toc-level-1">
+          
+          
+          
+          1.
+           meow
+        </a>
+      </li>
+
+      <li>
+        <a href="/posts/ahhh/#rawr" class="toc-item toc-level-2">
+          
+          
+          
+          1.1.
+           rawr
+        </a>
+      </li>
+  </ul>
+  </nav>
+
+    </aside>
+    
+
+    <article>
+        <div id="post-toc-mobile">
+            <button id="post-toc-btn" class="dropbox-btn" onclick="toggleDropbox('post-toc')" >☰</button>
+            <div id="post-toc" class="dropbox-content table-of-contents float">
+                
+
+  <nav class="toc">
+  <ul>
+
+      <li>
+        <a href="/posts/ahhh/#meow" class="toc-item toc-level-1">
+          
+          
+          
+          1.
+           meow
+        </a>
+      </li>
+
+      <li>
+        <a href="/posts/ahhh/#rawr" class="toc-item toc-level-2">
+          
+          
+          
+          1.1.
+           rawr
+        </a>
+      </li>
+  </ul>
+  </nav>
+
+            </div>
+        </div>
         
-        <li class="tag-item">
-            <a href="/posts/youtube/">Duy in Seoul, Winter 2025</a>
-            <p> > yuuwe&rsquo;s youtube video
-</p>
-        </li>
+        <h2>HUHHHH</h2>
         
-        <li class="tag-item">
-            <a href="/posts/start/">mysterious meow</a>
-            <p> > meow meow&hellip; meow rawr, meow meow meow!
-rawr rawr meow, meow meow rawr, rawr meow meow. meow rawr meow meow, rawr rawr rawr meow rawr, rawr meow meow. meow rawr, meow rawr meow!
-</p>
-        </li>
+        tags:
         
-        <li class="tag-item">
-            <a href="/posts/ahhh/">HUHHHH</a>
-            <p> > meow meow&hellip; meow rawr, meow meow meow!
-rawr rawr meow, meow meow rawr, rawr meow meow. meow rawr meow meow, rawr rawr rawr meow rawr, rawr meow meow. meow rawr, meow rawr meow!
-</p>
-        </li>
+        <a href="/tags/meow">meow</a>
         
-    </ul>
-    <p style="margin-top: 2.5rem;"><a href="/tags">all tags</a></p>
-</article>
+        <div class="post-header">
+        @mochi <span class="timestamp">02/01/2026</span>
+        </div>
+        <p><h2 id="meow">meow</h2>
+<p>meow&hellip; meow rawr, meow meow meow!</p></p>
+        
+        <div>
+        
+        <a href="/photo6.png" target="_blank"><img style="max-height: 15rem; margin-right: .3rem;" src="/photo6.png"></a>
+        
+        </div>
+        
+        <div class="auto-numbering" id="full-content"><h3 id="rawr">rawr</h3>
+<p>rawr meow, meow meow rawr, rawr meow meow. meow rawr meow meow, rawr rawr rawr meow rawr, rawr meow meow.
+meow rawr, meow rawr meow!</p></div>
+        
+    </article>
+    <script>
+    window.addEventListener('click', e => {
+        let dropboxs = document.getElementsByClassName("dropbox-content");
+        let dropbox_btns = document.getElementsByClassName("dropbox-btn");
+
+        if (dropbox_btns.namedItem(e.target.id) != null) return;
+
+        if(dropboxs.namedItem(e.target.id) == null) {
+            for (let i = 0; i < dropboxs.length; i++) {
+                dropboxs[i].removeAttribute("visible");
+            }
+        }
+    }, true)
+
+    function toggleDropbox(id) {
+        let dropbox = document.getElementById(id);
+
+        dropbox.toggleAttribute("visible");
+    }
+    </script>
+</div>
 
     
 </main>

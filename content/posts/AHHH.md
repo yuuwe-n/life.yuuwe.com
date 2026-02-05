@@ -1,8 +1,8 @@
 ---
-title: "mysterious meow"
-date: "Wed Feb 4 01:31:26 PST 2026"
+title: "HUHHHH"
+date: "Thu Feb 1 01:29:19 PST 2026"
 tags: ["meow",]
-title-images: ["/IMG_8434.jpeg",]
+title-images: ["/photo6.png",]
 ending-images: []
 author: "mochi"
 draft: false

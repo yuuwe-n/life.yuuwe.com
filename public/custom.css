@@ -23,3 +23,81 @@
   height: auto;
 /*  border-radius: 12px;*/
 }
+
+
+/* ============================
+   Mobile: force vertical layout
+   ============================ */
+
+
+@media only screen and (max-width: 800px) {
+
+  /* 1) Prevent tiny horizontal overflow that creates "space on the right" */
+  html, body {
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+  body {
+    padding-bottom: 2rem;
+  }
+
+  /* 2) On mobile, stop using flex for the main wrapper entirely */
+  #content {
+    display: block;
+    width: 100%;
+    margin: 0;
+  }
+
+  /* 3) Make main + sections truly full width and centered */
+  main {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  /* 4) Articles should be centered and never "float" weirdly */
+  article {
+    width: 100%;
+    max-width: 48rem;      /* keeps it readable */
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* 5) Sidebar full width (also remove any internal centering weirdness) */
+  #sidebar {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  /* 6) Nav list should be full width and centered */
+  nav.links > ul {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    align-items: center;
+  }
+
+  /* 7) If any element is forcing width bigger than screen, clamp it */
+  img, video, iframe, pre, code, table {
+    max-width: 100%;
+  }
+
+  /* Pre/code is a common overflow culprit */
+  pre {
+    overflow-x: auto;
+  }
+
+  /* Make each button smaller on mobile */
+  li.page-item a {
+    padding: .5em .7em;
+    margin: .10rem;
+    font-size: .95rem;
+  }
+}

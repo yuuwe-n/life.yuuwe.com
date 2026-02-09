@@ -10,12 +10,14 @@ table-of-contents: false
 toc-auto-numbering: false
 ---
 
-<!-- introduction -->
+i arranged some flowers i bought from whole foods!
+
+i think i bought like 4 different flowers, and then lowkey i think it was lik around 35 bucks or smth total.
+
+i really like them!!
 
 
-<!--more-->
-<!-- rest of the content -->
-
+i wanna buy and arrange flowers every week,,, but i dont think i have the money to do so...
 
 
 <!--
